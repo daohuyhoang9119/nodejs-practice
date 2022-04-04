@@ -4,9 +4,7 @@ const port = 8000;
 
 app.get("/", (req, res) => {
   res.send("Hello World!");
-});
-app.get("/about-me", (req, res) => {
-  res.send("Page about me works");
+  res.send("DCmmm!");
 });
 
 app.listen(port, () => {
