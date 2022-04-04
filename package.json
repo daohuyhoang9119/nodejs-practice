@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/daohuyhoang9119/nodejs-practice#readme",
   "dependencies": {
+    "express": "4.17.3",
     "node": "^17.7.2"
   }
 }
